@@ -1,3 +1,3 @@
 #Curso-Udemy
 
-solo es una prueba 
+aqui se crean los ejecicios del curso Udemy 
